@@ -1,16 +1,13 @@
-# Simulador-de-algoritmos-de-substitui-o-de-p-ginas
+# Simulador-de-algoritmos-de-substitui-o-de-paginas
 
 **Universidade de Fortaleza (Unifor)**  
 Centro de Ciências Tecnológicas · Ciência da Computação · Sistemas Operacionais
-Alunos: Gabriel Trajano 2410361
-        Davi Lira Cysne 2410372
 
-GitHub:
 
 | Item | Informação |
 |------|------------|
-| **Repositório** | _(substituir pelo link público do GitHub após publicar)_ |
-| **Dupla** | **Autor 1:** ___ · **Autor 2:** ___ |
+| **Repositório** | https://github.com/GabrielTrajano078/Simulador-de-algoritmos-de-substitui-o-de-p-ginas |
+| **Dupla** | **Autor 1:** Gabriel Trajano --- 2410361 · **Autor 2:** Davi Lira Cysne 2410372 |
 
 ---
 

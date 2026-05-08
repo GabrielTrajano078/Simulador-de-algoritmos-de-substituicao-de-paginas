@@ -1,7 +1,5 @@
 # Simulador-de-algoritmos-de-substitui-o-de-p-ginas
 
-# Simulador de algoritmos de substituição de páginas
-
 **Universidade de Fortaleza (Unifor)**  
 Centro de Ciências Tecnológicas · Ciência da Computação · Sistemas Operacionais
 Alunos: Gabriel Trajano 2410361
